@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="/github-banner.jpeg" width="100%" height="120px" style="object-fit: cover;"/>
+  <img src="" width="100%" height="120px" style="object-fit: cover;"/>
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#4CAF50; font-weight:700;">Muhammad Yasir</span></h1>
@@ -65,7 +65,7 @@
 
 ## 📊 **GitHub Stats**
 
-## 📊 **GitHub Stats** <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YasirAwan4831&show_icons=true&theme=dark" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirAwan4831&layout=compact&theme=dark" height="150"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YasirAwan4831&show_icons=true&theme=dark" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirAwan4831&layout=compact&theme=dark" height="150"/> </p>
 
 ---
 
