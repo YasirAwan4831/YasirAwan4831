@@ -65,19 +65,12 @@
 
 ## 📊 **GitHub Stats**
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YasirAwan4831&show_icons=true&theme=dark" height="150"/>
-</div>
-
-<div align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirAwan4831&layout=compact&theme=dark" height="150"/>
-</div>
+## 📊 **GitHub Stats** <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YasirAwan4831&show_icons=true&theme=dark" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirAwan4831&layout=compact&theme=dark" height="150"/> </p>
 
 ---
 
----
 
-## 🐍 **GitHub Contribution Snake**
+##  **GitHub Contribution **
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/YasirAwan4831/YasirAwan4831/output/snake.svg" />
