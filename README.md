@@ -92,8 +92,9 @@ A complete final-year professional business website featuring modern UI/UX, resp
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?YasirAwan4831=YOUR_GITHUB_YasirAwan4831&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?YasirAwan4831=YOUR_GITHUB_YasirAwan4831&layout=compact&theme=dark" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YasirAwan4831&show_icons=true&theme=dark" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirAwan4831&layout=compact&theme=dark" height="150"/>
 </p>
 
 ---
