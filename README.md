@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="/github-banner.png" width="100%"/>
+  <img src="/github-banner.jpeg" width="100%"/>
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#4CAF50; font-weight:700;">Muhammad Yasir</span></h1>
