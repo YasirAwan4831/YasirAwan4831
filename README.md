@@ -72,13 +72,13 @@ A clean and professional multi-page e-commerce website built during internship, 
 ---
 
 ### 🤖 **YARIS AI – Smart ChatBot (JavaScript + Node)**
-A modern and interactive AI chatbot with dynamic UI, smart NLP-based responses, and smooth animations.  
+A modern and interactive AI chatbot with dynamic UI, smart NLP-based responses and smooth animations.  
 ➡ **GitHub:** https://github.com/YasirAwan4831/YARIS-AI-Smart-Chat-Bot
 
 ---
 
 ### 🟦 **WebDev Quiz App – Professional Animated Quiz Website**
-A fully responsive, animated, and interactive quiz application with modern UI/UX, timer, score logic, transitions, and polished design.  
+A fully responsive, animated, and interactive quiz application with modern UI/UX, timer, score logic, transitions and polished design.  
 ➡ **GitHub:** https://github.com/YasirAwan4831/webdev-quiz-app
 
 ---
@@ -92,8 +92,8 @@ A complete final-year professional business website featuring modern UI/UX, resp
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?YasirAwan4831=YOUR_GITHUB_YasirAwan4831&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?YasirAwan4831=YOUR_GITHUB_YasirAwan4831&layout=compact&theme=dark" height="150"/>
 </p>
 
 ---
