@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="/github-banner.jpeg" width="100%"/>
+  <img src="/github-banner.jpeg" width="100%" height="120px" style="object-fit: cover;"/>
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#4CAF50; font-weight:700;">Muhammad Yasir</span></h1>
@@ -63,38 +63,24 @@
 
 ---
 
-## 🚀 **Featured Projects**
-
-### 🟩 **DeveloperHub – Corporateion Internship**
-A clean and professional multi-page e-commerce website built during internship, featuring business layout, service pages, forms, and smooth responsiveness.  
-➡ **GitHub:** https://github.com/YasirAwan4831/developerhub-corporation-internship
-
----
-
-### 🤖 **YARIS AI – Smart ChatBot (JavaScript + Node)**
-A modern and interactive AI chatbot with dynamic UI, smart NLP-based responses and smooth animations.  
-➡ **GitHub:** https://github.com/YasirAwan4831/YARIS-AI-Smart-Chat-Bot
-
----
-
-### 🟦 **WebDev Quiz App – Professional Animated Quiz Website**
-A fully responsive, animated, and interactive quiz application with modern UI/UX, timer, score logic, transitions and polished design.  
-➡ **GitHub:** https://github.com/YasirAwan4831/webdev-quiz-app
-
----
-
-
-### 🟧 **Business Website – Final Year Project (IT)**
-A complete final-year professional business website featuring modern UI/UX, responsive design, and structured multi-page layout.  
-➡ **GitHub:** https://github.com/YasirAwan4831/Final-Year-Diploma-Web-Project
-
----
-
 ## 📊 **GitHub Stats**
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YasirAwan4831&show_icons=true&theme=dark" height="150"/>
 
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YasirAwan4831&show_icons=true&theme=dark" height="150"/>
+</div>
+
+<div align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirAwan4831&layout=compact&theme=dark" height="150"/>
+</div>
+
+---
+
+---
+
+## 🐍 **GitHub Contribution Snake**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YasirAwan4831/YasirAwan4831/output/snake.svg" />
 </p>
 
 ---
