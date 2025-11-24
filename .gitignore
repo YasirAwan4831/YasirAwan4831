@@ -1,0 +1,13 @@
+
+temp/
+logs/
+*.log
+*.cache
+build/
+
+.env
+.DS_Store
+backup-*.zip
+pic 1 
+pic 2
+pic 3 
