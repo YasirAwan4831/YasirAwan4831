@@ -7,7 +7,7 @@
 
 <!-- Animated Typing Roles -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=2000&color=0000FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;WordPress+Developer;Graphic+Designer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=2000&color=0000FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;WordPress+Developer" />
 </p>
 
 ---
