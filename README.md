@@ -115,4 +115,4 @@
 ---
 
 ## ⭐ **Support**
-If you like my work, please **star** my repos and follow me! 🚀
+If you like my work, please **star** my repos and follow me! 
