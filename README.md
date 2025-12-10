@@ -65,7 +65,11 @@
 
 ## 📊 **GitHub Stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YasirAwan4831&show_icons=true&theme=dark" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirAwan4831&layout=compact&theme=dark" height="150"/> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yasirawan4831&theme=tokyonight&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50" />
+</p>
+
+
 
 ---
 
