@@ -90,6 +90,10 @@
   <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
+<a href="https://github.com/YasirAwan4831">
+  <img src="https://img.shields.io/badge/GitHub%20Sponsors-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 <a href="https://leetcode.com/YasirAwan4831">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
@@ -102,12 +106,18 @@
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
+<a href="https://yasirawaninfo.lovestoblog.com"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
+
 <a href="https://www.facebook.com/profile.php?id=61575935942197">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/yasirawan4831/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://substack.com/@yasirwaninfo">
+  <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
 </a>
 
 <a href="https://asani.pk/profile/yasirawan4831">
