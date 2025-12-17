@@ -23,12 +23,12 @@
 ---
 
 ## 👨‍💻 **About Me**
-- 🔥 Passionate **Full Stack Web Developer**
-- 🌐 Professional **WordPress Developer & Elementor Expert**
-- 🎨 Creative **Graphic Designer** (Branding + Social Media)
-- ⚡ Love building modern UI/UX, animations & dynamic web apps  
-- 🚀 Focused on performance, clean code & responsive design  
-- 💡 Always learning new technologies & improving skills  
+-  Passionate **Full Stack Web Developer**
+-  Professional **WordPress Developer & Elementor Expert**
+-  Creative **Graphic Designer** (Branding + Social Media)
+-  Love building modern UI/UX, animations & dynamic web apps  
+-  Focused on performance, clean code & responsive design  
+-  Always learning new technologies & improving skills  
 
 ---
 
