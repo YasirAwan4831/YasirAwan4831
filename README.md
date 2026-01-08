@@ -81,50 +81,29 @@
 ## 🌐 **Social Links**
 
 <p align="left">
-
-<a href="https://linkedin.com/in/yasirawan4831">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://x.com/yasirawan4831">
-  <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://github.com/YasirAwan4831">
-  <img src="https://img.shields.io/badge/GitHub%20Sponsors-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/YasirAwan4831">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<a href="https://www.youtube.com/@YasirTech-t1d">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<a href="https://medium.com/@YasirAwan4831">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-<a href="https://yasirawaninfo.lovestoblog.com"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
-
-<a href="https://www.facebook.com/profile.php?id=61575935942197">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/yasirawan4831/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://substack.com/@yasirwaninfo">
-  <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
-</a>
-
-<a href="https://asani.pk/profile/yasirawan4831">
-  <img src="https://img.shields.io/badge/Asani.pk-4CAF50?style=for-the-badge&logo=web&logoColor=white" />
-</a>
-
+<a href="https://yasirawan4831.github.io/futuristic-links-dashboard/"><img src="https://img.shields.io/badge/All%20Links-00FFFF?style=for-the-badge&logo=linktree&logoColor=black" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/yasirawan4831"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://github.com/YasirAwan4831"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://yasirawan4831.github.io/ApexcifyTechnologys-FrontendInternship/task-2/"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>&nbsp;&nbsp;
+<a href="https://kaggle.com/yasirawan4831"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/u/YasirAwan4831"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/31822196/yasirawan4831"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://forem.com/yasirawan4831"><img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://medium.com/@YasirAwan4831"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://hashnode.com/@YasirAwan4831"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://substack.com/@yasirwaninfo"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/@YasirTech-t1d"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://x.com/YasirAwan4831"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://facebook.com/profile.php?id=61575935942197"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/yasirawan4831"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.tiktok.com/@yasirawan4831?lang=en"><img src="https://img.shields.io/badge/TikTok-FF6A00?style=for-the-badge&logo=tiktok&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://asani.pk/profile/yasirawan4831"><img src="https://img.shields.io/badge/ASANI-00C896?style=for-the-badge&logo=briefcase&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://developers.google.com/profile/u/yasirawaninfo"><img src="https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://discord.com/users/1298290889373913149"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="mailto:my3154831409@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="mailto:my3154831409@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 </p>
+
 
 ---
 
