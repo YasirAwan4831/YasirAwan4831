@@ -90,7 +90,9 @@
 <a href="https://stackoverflow.com/users/31822196/yasirawan4831"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://forem.com/yasirawan4831"><img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://medium.com/@YasirAwan4831"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://hashnode.com/@YasirAwan4831"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://coderlegion.com/user/YasirAwan4831">
+  <img src="https://img.shields.io/badge/CoderLegion-8297FF?style=for-the-badge&logo=code&logoColor=white" />
+</a> <a href="https://hashnode.com/@YasirAwan4831"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://substack.com/@yasirwaninfo"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/@YasirTech-t1d"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://orcid.org/0009-0002-8711-6868">
