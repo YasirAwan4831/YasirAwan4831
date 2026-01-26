@@ -49,7 +49,7 @@
 - Node.js  
 - MongoDB  
 - Python (Flask Basics)  
-- MySQL  
+- MySQL  / SQL Serverl
 
 ### **CMS**
 - WordPress  
@@ -84,7 +84,7 @@
 <a href="https://yasirawan4831.github.io/futuristic-links-dashboard/"><img src="https://img.shields.io/badge/All%20Links-00FFFF?style=for-the-badge&logo=linktree&logoColor=black" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/yasirawan4831"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://github.com/YasirAwan4831"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://yasirawan4831.github.io/ApexcifyTechnologys-FrontendInternship/task-2/"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>&nbsp;&nbsp;
+<a href="https://yasirawaninfo.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>&nbsp;&nbsp;
 <a href="https://kaggle.com/yasirawan4831"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://leetcode.com/u/YasirAwan4831"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/31822196/yasirawan4831"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>&nbsp;&nbsp;
@@ -93,7 +93,9 @@
 <a href="https://hashnode.com/@YasirAwan4831"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://substack.com/@yasirwaninfo"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/@YasirTech-t1d"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://x.com/YasirAwan4831"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://orcid.org/0009-0002-8711-6868">
+<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" style="margin:4px;" />
+</a>   <a href="https://x.com/YasirAwan4831"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://facebook.com/profile.php?id=61575935942197"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/yasirawan4831"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://www.tiktok.com/@yasirawan4831?lang=en"><img src="https://img.shields.io/badge/TikTok-FF6A00?style=for-the-badge&logo=tiktok&logoColor=white" /></a>&nbsp;&nbsp;
