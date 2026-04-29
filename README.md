@@ -20,11 +20,13 @@
 <br/>
 
 
-<!-- Profile Views + Followers -->
+<!-- Profile Views + Followers + Stars -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YasirAwan4831&label=Profile%20Views&color=blue&style=flat" />
-  <img src="https://img.shields.io/github/followers/YasirAwan4831?label=Followers&style=flat&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=YasirAwan4831&label=Profile%20Views&color=1e90ff&style=flat" />
+  <img src="https://img.shields.io/github/followers/YasirAwan4831?label=Followers&style=flat&color=1e90ff" />
+  <img src="https://img.shields.io/github/stars/YasirAwan4831?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=flat&color=ffb400&logo=star" />
 </p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
