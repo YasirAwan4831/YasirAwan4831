@@ -19,6 +19,17 @@
 
 <br/>
 
+
+<!-- Profile Views + Followers -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YasirAwan4831&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://img.shields.io/github/followers/YasirAwan4831?label=Followers&style=flat&color=blue" />
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
+
+
 ## 👨‍💻 &nbsp;About Me
 
 <img align="right" width="310" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer GIF"/>
@@ -103,7 +114,6 @@
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
 <br/>
 
 ## 🐍 &nbsp;GitHub Contribution
@@ -114,8 +124,20 @@
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
 <br/>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasirAwan4831&theme=tokyo-night" />
+</p>
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YasirAwan4831&theme=algolia" />
+</p>
 
 ## 🌐 &nbsp;Social Links
 
