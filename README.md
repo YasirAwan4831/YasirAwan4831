@@ -71,11 +71,11 @@
 
 ### 🎨 Front-End
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,typescript,next,react,&theme=dark&perline=6"/>
 
 ### ⚙️ Back-End & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,python,flask,mysql&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,mysql&theme=dark&perline=5"/>
 
 ### 🌐 CMS
 
@@ -133,6 +133,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasirAwan4831&theme=tokyo-night" />
 </p>
+
+
 
 
 ## 🏆 GitHub Trophies
@@ -203,3 +205,8 @@ If you like my work, please **⭐ star** my repos and **follow** me!
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1e90ff,100:0d1117&height=130&section=footer&animation=fadeIn" width="100%"/>
+
+
+
+
+
