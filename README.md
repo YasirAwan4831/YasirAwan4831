@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d62,70:1e90ff,100:00d4ff&height=220&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20Muhammad%20Yasir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20WordPress%20Expert%20%7C%20Graphic%20Designer&descAlignY=60&descSize=17&descColor=a8d8f0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d62,70:1e90ff,100:00d4ff&height=220&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20Muhammad%20Yasir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Automation%20Developer%20%7C%20Social%20Media%20Management%20Specialist&descAlignY=60&descSize=15&descColor=a8d8f0" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=800&color=1E90FF&center=true&vCenter=true&width=700&height=55&lines=🌐+Full+Stack+Web+Developer;🌐+WordPress+%26+Elementor+Expert;🎨+Graphic+Designer+%7C+Branding+%26+Social+Media;⚡+Clean+Code+%7C+Performance+%7C+Responsive+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=800&color=1E90FF&center=true&vCenter=true&width=700&height=55&lines=🌐+Full+Stack+Web+Developer;🤖+AI+Automation+Developer;📱+Social+Media+Management+Specialist;⚡+Clean+Code+%7C+Performance+%7C+Responsive+Design)](https://git.io/typing-svg)
 
 <br/>
 
 <img src="https://img.shields.io/badge/Full%20Stack-Developer-1E90FF?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/WordPress-Expert-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-<img src="https://img.shields.io/badge/Graphic-Designer-FF5722?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Automation-Developer-9B59B6?style=for-the-badge&logo=robotframework&logoColor=white"/>
+<img src="https://img.shields.io/badge/Social%20Media-Management-FF5722?style=for-the-badge&logo=hootsuite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Freelancer-Available-00C853?style=for-the-badge&logo=upwork&logoColor=white"/>
 
 </div>
@@ -37,8 +37,8 @@
 <img align="right" width="310" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer GIF"/>
 
 &nbsp;🔥 &nbsp;Passionate **Full Stack Web Developer**  
-&nbsp;🌐 &nbsp;Professional **WordPress Developer & Elementor Expert**  
-&nbsp;🎨 &nbsp;Creative **Graphic Designer** (Branding + Social Media)  
+&nbsp;🤖 &nbsp;Hands-on **AI Automation Developer** — completed an **AI Internship**, building automated workflows & intelligent solutions  
+&nbsp;📱 &nbsp;Experienced **Social Media Management Specialist** (Strategy, Growth & Content)  
 &nbsp;💡 &nbsp;Love building modern **UI/UX, animations & dynamic web apps**  
 &nbsp;⚡ &nbsp;Focused on **performance, clean code & responsive design**  
 &nbsp;🚀 &nbsp;Always learning **new technologies & improving skills**
@@ -77,11 +77,9 @@
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,mysql&theme=dark&perline=5"/>
 
-### 🌐 CMS
+### 🤖 AI & Automation
 
-<img src="https://skillicons.dev/icons?i=wordpress&theme=dark"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=py,tensorflow,opencv,githubactions,docker&theme=dark&perline=5"/>
 
 ### 🧰 Tools
 
@@ -205,8 +203,3 @@ If you like my work, please **⭐ star** my repos and **follow** me!
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1e90ff,100:0d1117&height=130&section=footer&animation=fadeIn" width="100%"/>
-
-
-
-
-
