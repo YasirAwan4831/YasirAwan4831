@@ -71,24 +71,27 @@
 
 ### 🎨 Front-End
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,typescript,next,react,&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,typescript,next,react&theme=dark&perline=8"/>
 
 ### ⚙️ Back-End & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,mysql&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,mysql,firebase&theme=dark&perline=6"/>
+<img src=""/>
 
 ### 🤖 AI & Automation
 
 <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv,githubactions,docker&theme=dark&perline=5"/>
 
-### 🧰 Tools
+### 🧰 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,canva&theme=dark&perline=4"/>
 
 <br/>
-
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
+<img src="https://img.shields.io/badge/Claude%20Agent-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
 </div>
 
 <br/>
