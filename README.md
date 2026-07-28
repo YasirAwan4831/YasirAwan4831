@@ -19,7 +19,6 @@
 
 <br/>
 
-
 <!-- Profile Views + Followers + Stars -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YasirAwan4831&label=Profile%20Views&color=1e90ff&style=flat" />
@@ -28,9 +27,6 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-
 
 ## 👨‍💻 &nbsp;About Me
 
@@ -76,7 +72,6 @@
 ### ⚙️ Back-End & Databases
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,mysql,firebase&theme=dark&perline=6"/>
-<img src=""/>
 
 ### 🤖 AI & Automation
 
@@ -92,6 +87,7 @@
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+
 </div>
 
 <br/>
@@ -117,6 +113,7 @@
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 <br/>
 
 ## 🐍 &nbsp;GitHub Contribution
@@ -124,25 +121,28 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/YasirAwan4831/YasirAwan4831/output/snake.svg" />
 </p>
+
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 <br/>
 
-## 📈 Contribution Graph
+## 📈 &nbsp;Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasirAwan4831&theme=tokyo-night" />
 </p>
 
+<br/>
 
-
-
-## 🏆 GitHub Trophies
+## 🏆 &nbsp;GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YasirAwan4831&theme=algolia" />
 </p>
+
+<br/>
 
 ## 🌐 &nbsp;Social Links
 
