@@ -1,16 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d62,70:1e90ff,100:00d4ff&height=220&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20Muhammad%20Yasir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Automation%20Developer%20%7C%20Social%20Media%20Management%20Specialist&descAlignY=60&descSize=15&descColor=a8d8f0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d62,70:1e90ff,100:00d4ff&height=220&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20Muhammad%20Yasir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20AI%20Automation%20Dev%20%7C%20Social%20Media%20Mgmt%20%7C%20Data%20Analytics&descAlignY=60&descSize=14&descColor=a8d8f0" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=800&color=1E90FF&center=true&vCenter=true&width=700&height=55&lines=🌐+Full+Stack+Web+Developer;🤖+AI+Automation+Developer;📱+Social+Media+Management+Specialist;⚡+Clean+Code+%7C+Performance+%7C+Responsive+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=800&color=1E90FF&center=true&vCenter=true&width=760&height=55&lines=🌐+Full+Stack+Web+Developer;🤖+AI+Automation+Developer;📱+Social+Media+Management+Specialist;📊+Data+Analytics+%7C+Secondary+Skill;⚡+Clean+Code+%7C+Performance+%7C+Responsive+Design)](https://git.io/typing-svg)
 
 <br/>
 
 <img src="https://img.shields.io/badge/Full%20Stack-Developer-1E90FF?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI%20Automation-Developer-9B59B6?style=for-the-badge&logo=robotframework&logoColor=white"/>
 <img src="https://img.shields.io/badge/Social%20Media-Management-FF5722?style=for-the-badge&logo=hootsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-Secondary%20Skill-00A67E?style=for-the-badge&logo=powerbi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Freelancer-Available-00C853?style=for-the-badge&logo=upwork&logoColor=white"/>
 
 </div>
@@ -28,6 +29,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<br/>
+
 ## 👨‍💻 &nbsp;About Me
 
 <img align="right" width="310" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer GIF"/>
@@ -35,11 +38,35 @@
 &nbsp;🔥 &nbsp;Passionate **Full Stack Web Developer**  
 &nbsp;🤖 &nbsp;Hands-on **AI Automation Developer** — completed an **AI Internship**, building automated workflows & intelligent solutions  
 &nbsp;📱 &nbsp;Experienced **Social Media Management Specialist** (Strategy, Growth & Content)  
+&nbsp;📊 &nbsp;Practical **Data Analytics** experience as a secondary skill through a Data Analyst Internship — **Python, Excel, Power BI, CSV, SQL & SQLite**  
 &nbsp;💡 &nbsp;Love building modern **UI/UX, animations & dynamic web apps**  
 &nbsp;⚡ &nbsp;Focused on **performance, clean code & responsive design**  
 &nbsp;🚀 &nbsp;Always learning **new technologies & improving skills**
 
 <br clear="both"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<br/>
+
+## 💼 &nbsp;Professional Focus
+
+<div align="center">
+
+| &nbsp; | Area | Level | Core Skills |
+|:---:|:---|:---:|:---|
+| 🌐 | **Full Stack Web Development** | ⭐ **Primary** | React, Next.js, Node.js, MongoDB, Firebase, MySQL |
+| 🤖 | **AI Automation Development** | ⭐ **Primary** | Python, AI APIs, LLMs, Automation Workflows |
+| 📱 | **Social Media Management** | 🔹 **Important** | Strategy, Growth, Content Creation & Analytics |
+| 📊 | **Data Analytics** | 🔸 **Secondary** | Python, Excel, Power BI, SQL, SQLite, Pandas |
+
+<br/>
+
+> 💡 *Data Analytics is a secondary skill developed through a dedicated internship — practical and growing, not expert-level.*
+
+</div>
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
@@ -65,7 +92,7 @@
 
 <div align="center">
 
-### 🎨 Front-End
+### 🌐 Front-End Development
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,typescript,next,react&theme=dark&perline=8"/>
 
@@ -77,16 +104,32 @@
 
 <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv,githubactions,docker&theme=dark&perline=5"/>
 
-### 🧰 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,canva&theme=dark&perline=4"/>
-
 <br/>
+
 <img src="https://img.shields.io/badge/Claude%20Agent-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+
+### 📊 Data Analytics &nbsp;<sup>*(Secondary — Internship Level)*</sup>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSV%20%26%20Data%20Analysis-00A67E?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+### 🧰 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,canva&theme=dark&perline=4"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
 </div>
 
@@ -141,6 +184,10 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YasirAwan4831&theme=algolia" />
 </p>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <br/>
 
